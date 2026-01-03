@@ -1,6 +1,6 @@
 # 🧠 Brain Tumor Detection and Classification System
 
-A full-stack web application that uses an **ensemble deep learning approach** to detect and classify brain tumors from MRI scans.
+A full-stack web application that uses an **ensemble deep learning approach* to detect and classify brain tumors from MRI scans.
 This guide explains how to set up both the **backend (FastAPI + PostgreSQL)** and **frontend (React + Vite)** components.
 
 ---
